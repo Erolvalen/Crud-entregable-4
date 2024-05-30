@@ -1,0 +1,27 @@
+.card{
+    border: 0.4em solid #012D37;
+    margin-bottom: 0.8em;
+    width: 25em;
+}
+
+.btn-editar{
+    background-color:#33CEFF ;
+    font-size: 1.2em;
+    margin-bottom: 0.2em;
+}
+
+.btn-eliminar{
+    background-color: #FF334F;
+    font-size: 1.2em;
+    margin-bottom: 0.2em;
+}
+
+.form{
+    background-color: #37011E;
+    width: 25.7em;
+}
+
+.span-label{
+    color: white;
+    
+}
